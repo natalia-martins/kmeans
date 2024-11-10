@@ -31,7 +31,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ```
 
 ## Resultado
-[Clique aqui para assistir ao vídeo explicativo](https://drive.google.com/file/d/14E9oSWY6skQAlY19bA-fVkMWqhGkWsj-/view?usp=sharing)
+[Clique aqui para assistir ao resultado do código](https://drive.google.com/file/d/14E9oSWY6skQAlY19bA-fVkMWqhGkWsj-/view?usp=sharing)
 
 
 ## Contribuição
