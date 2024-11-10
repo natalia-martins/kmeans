@@ -30,6 +30,10 @@ Para instalar as bibliotecas necessárias, execute:
 pip install numpy pandas matplotlib seaborn scikit-learn
 ```
 
+## Resultado
+[Clique aqui para assistir ao vídeo explicativo](https://drive.google.com/file/d/14E9oSWY6skQAlY19bA-fVkMWqhGkWsj-/view?usp=sharing)
+
+
 ## Contribuição
 
 Este roteiro foi desenvolvido pela Equipe_02 para fins educacionais e de pesquisa. Contribuições são bem-vindas para otimizar o código, explorar novas métricas de avaliação ou incluir novos conjuntos de dados.
