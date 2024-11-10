@@ -1,5 +1,7 @@
 # Roteiro de Agrupamento com K-Means
 
+Grupo: Bernardo Mello Correia Lima; Mateus Pires Simeão; Marcelo Reis Galvão Lima; Natália Martins Dias Santos
+
 Este repositório contém um roteiro desenvolvido em Jupyter Notebook para agrupar dados não rotulados usando o algoritmo K-Means. O objetivo é identificar o número ideal de clusters com base nas características dos dados, buscando otimizar métricas de avaliação. O roteiro utiliza uma base de dados do Kaggle e foi desenvolvido para auxiliar no aprendizado e experimentação com algoritmos de clusterização não supervisionados.
 
 ## Estrutura do Projeto
@@ -31,7 +33,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ```
 
 ## Resultado
-[Clique aqui para assistir ao resultado do código](https://drive.google.com/file/d/14E9oSWY6skQAlY19bA-fVkMWqhGkWsj-/view?usp=sharing)
+[Clique aqui para assistir ao vídeo do resultado](https://drive.google.com/file/d/14E9oSWY6skQAlY19bA-fVkMWqhGkWsj-/view?usp=sharing)
 
 
 ## Contribuição
